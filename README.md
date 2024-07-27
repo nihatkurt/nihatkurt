@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nihatkurt&color=blue)
 [![Linkedin: nihat kurt](https://img.shields.io/badge/-nihatkurt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihat-kurt-qa-tester/)](https://www.linkedin.com/in/nihat-kurt-qa-tester/)
-
+[![GitHub nihatkurt](https://img.shields.io/github/followers/nihatkurt?label=follow&style=social)](https://github.com/nihatkurt)
 
 - 📫 How to reach me: **nihat.kurt.1997@gmail.com**
 
