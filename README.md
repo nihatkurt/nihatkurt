@@ -11,4 +11,5 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+![krakow](https://avatars.mds.yandex.net/i?id=a961dcd3f1916f4f6094c305af99ef1c3d640de0-10151485-images-thumbs&n=13)
 ---
